@@ -5,9 +5,6 @@ import {
   Scale,
   AlertOctagon,
   Award,
-  CheckCircle2,
-  FileText,
-  AlertTriangle,
 } from "lucide-react";
 
 export default function AdditionalGuidelines() {
